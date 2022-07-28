@@ -1,0 +1,1 @@
+### Example ZMK-config repo for the [Plank](https://github.com/cacheworks/plank)
