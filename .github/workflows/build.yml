@@ -13,7 +13,7 @@ jobs:
       matrix:
         include:
           - shield: plank
-            board: nrfmicro_13
+            board: nice_nano_v2
     steps:
       - name: Checkout
         uses: actions/checkout@v2
