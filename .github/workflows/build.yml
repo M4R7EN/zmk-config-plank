@@ -13,7 +13,7 @@ jobs:
       matrix:
         include:
           - shield: plank
-            board: nice_nano_v2
+            board: nice_nano
     steps:
       - name: Checkout
         uses: actions/checkout@v2
